@@ -11,13 +11,13 @@ Health Assistant là một ứng dụng web giúp dự đoán nguy cơ mắc cá
 - **Triển Khai Bằng Docker**: Ứng dụng được container hóa và triển khai bằng Docker, sử dụng Docker Compose để quản lý các container.
 
 ### Mô Hình Dự Đoán
-![Mô Hình Dự Đoán](https://drive.google.com/uc?id=1tLwc4d5TTcHH86r2nHlgP9tNBnwIKSfb)
+![Giao Diện Ứng Dụng](https://drive.google.com/uc?id=1n1nCpqQIZtRLfXqJbyiLNuBWGepeGDTu)
 
 ### Medical Bot
-![Medical Bot](https://drive.google.com/uc?id=1x2swrQZ9ugbVC4iRubLONNUg7oe6-ZZP)
+![Mô Hình Dự Đoán](https://drive.google.com/uc?id=1tLwc4d5TTcHH86r2nHlgP9tNBnwIKSfb)
 
 ### Database sử dụng MongoDB
-![Giao Diện Ứng Dụng](https://drive.google.com/uc?id=1n1nCpqQIZtRLfXqJbyiLNuBWGepeGDTu)
+![Medical Bot](https://drive.google.com/uc?id=1x2swrQZ9ugbVC4iRubLONNUg7oe6-ZZP)
 
 ## Yêu Cầu Hệ Thống
 
